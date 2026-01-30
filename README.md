@@ -1,4 +1,5 @@
 ## Hi there 👋
+![](https://github.com/minciso/minciso/blob/main/pic/awsbanner.jpg)
 
 <!--
 **minciso/minciso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
