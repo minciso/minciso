@@ -24,8 +24,3 @@ AWS / AZURE / GCP / AGENTIC AI / ANSIBLE / DOCKER / KUBERNETES / UBUNTU / WINDOW
 <a href="https://github.com/minciso" target="_blank"><img src="https://github.com/minciso/minciso/blob/main/pic/git.png" alt="GitHub" width="30"></a>
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=minciso)
-
-#### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=minciso&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=minciso&theme=ocean_dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=minciso&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
