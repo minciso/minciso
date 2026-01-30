@@ -1,5 +1,12 @@
-## Hi there 👋
 ![](https://github.com/minciso/minciso/blob/main/pic/awsbanner.jpg)
+
+## Hi there 👋
+
+Im Michael a Cloud Engineer with practical experience in designing, deploying, and managing AWS infrastructure for
+development and production environments. Skilled in implementing secure, scalable, and cost-efficient cloud
+solutions while continuously enhancing automation and DevOps practices. Currently expanding hands-on knowledge
+in Terraform (IaC) with ongoing learning in Ansible, GitHub Actions, Kubernetes (EKS). Actively participates in AWS
+Partner Network (APN) webinars and workshops to stay updated on the latest AWS services and best practices.
 
 <!--
 **minciso/minciso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
