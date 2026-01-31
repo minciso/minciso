@@ -9,9 +9,26 @@ in Terraform (IaC) with ongoing learning in Ansible, GitHub Actions, Kubernetes 
 Partner Network (APN) webinars and workshops to stay updated on the latest AWS services and best practices.
 
 
-#### TECH STACK
+### 🛠️ Tech Stack
 
-AWS / AZURE / GCP / AGENTIC AI / ANSIBLE / DOCKER / KUBERNETES / UBUNTU / WINDOWS SERVER / CISCO / JUNIPER / FORTINET / MYSQL / HTML / CSS / GITHUB / GITHUB ACTION / APACHE / NGINX / VSCODE / GITHUB / GIT / SLACK / JIRA
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cloud & DevOps** | `AWS` `Azure` `GCP` `Ansible` `Docker` `Kubernetes` |
+| **AI & Development** | `Agentic AI` `HTML5` `CSS3` `VS Code` |
+| **Networking** | `Cisco` `Juniper` `Fortinet` `Nginx` `Apache` |
+| **Infrastructure** | `Ubuntu` `Windows Servers` `MySQL` |
+| **Workflow & CI/CD** | `Git` `GitHub` `GitHub Actions` `Jira` `Slack` |
+
+
+### 🌍 Industries I Work With
+
+I bring cross-functional expertise to a variety of specialized markets:
+
+* **Technology:** Software & Technology, MSP, Telecoms
+* **Energy:** Oil & Gas, Renewables
+* **Social Impact:** NGOs & Non-Profits
+* **Commercial:** Technical Sales Strategy
+
 
 ##### MANTRA
 
