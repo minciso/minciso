@@ -9,7 +9,7 @@ in Terraform (IaC) with ongoing learning in Ansible, GitHub Actions, Kubernetes 
 Partner Network (APN) webinars and workshops to stay updated on the latest AWS services and best practices.
 
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Platform
 
 | Category | Tools & Technologies |
 | :--- | :--- |
