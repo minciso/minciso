@@ -37,7 +37,7 @@ I bring cross-functional expertise to a variety of specialized markets:
 <a href="https://www.facebook.com/" target="_blank"><img src="https://github.com/minciso/minciso/blob/main/pic/fb.png" alt="Facebook" width="30"></a>
 <a href="https://twitter.com/" target="_blank"><img src="https://github.com/minciso/minciso/blob/main/pic/tw.png" alt="Twitter" width="30"></a>
 <a href="https://www.instagram.com/" target="_blank"><img src="https://github.com/minciso/minciso/blob/main/pic/ig.png" alt="Instagram" width="30"></a>
-<a href="https://linkedin.com/in/mabarollo" target="_blank"><img src="https://github.com/minciso/minciso/blob/main/pic/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://linkedin.com/" target="_blank"><img src="https://github.com/minciso/minciso/blob/main/pic/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://github.com/minciso" target="_blank"><img src="https://github.com/minciso/minciso/blob/main/pic/git.png" alt="GitHub" width="30"></a>
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=minciso)
